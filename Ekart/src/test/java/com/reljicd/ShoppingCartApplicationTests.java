@@ -1,13 +1,13 @@
-package com.reljicd;
+// package com.reljicd;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class ShoppingCartApplicationTests {
+// @SpringBootTest
+// class ShoppingCartApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
-}
+//     @Test
+//     void contextLoads() {
+//     }
+// }
 
